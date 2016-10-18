@@ -19,6 +19,11 @@ Hago un segundo commit para añadir todo esto en el README.md
 
 Voy a hacer un merge con una rama llamada Otra
 
-Le añado un fichero segundo.txt
+Le añado un fichero segundo.txt a la rama Otra
+
+Despues de hacer todo esto, voy a hacer un checkout para unir las dos ramas
+
+Subo este fichero con un commit final y cierro el github.
+
 
 
