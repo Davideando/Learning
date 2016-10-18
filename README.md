@@ -17,3 +17,8 @@ Lo introduzco y se actualiza todo
 
 Hago un segundo commit para añadir todo esto en el README.md
 
+Voy a hacer un merge con una rama llamada Otra
+
+Le añado un fichero segundo.txt
+
+
